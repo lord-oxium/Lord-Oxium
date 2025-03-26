@@ -1,4 +1,13 @@
 ## Hi there 👋
+You can call me Oxium, Ox, or Chris (he/him).
+
+I'm new to coding and Git. I'm curretnly experimenting with Twine to write a short game. I hope to write at a game studio in the future, but I need some experience first. I didn't go to school for game development or even take a computer science class. Like a lot of things in my life, I've opted to self-teach. Much cheaper!
+
+More about me:
+- I live near Seattle, WA
+- I love the ocean, forests, and PNW
+- I have a dog named Mona and a cat named Evie
+- I play games on PC and PlayStation mostly
 
 <!--
 **lord-oxium/Lord-Oxium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
